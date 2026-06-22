@@ -1,0 +1,13 @@
+name="Divjot Bedi"
+print(name[:])
+print(name[::-1])
+print(name[::2])
+print(name[:6:])
+print(name[-11:-3:])
+print(name[:-1])
+print(name.split())
+print(name.split()[0])
+print(name.strip())
+print(name.replace(" Bedi","-07"))
+print(name.startswith("Di"))
+print('-> '.join(name))
