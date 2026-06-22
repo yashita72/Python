@@ -5,6 +5,7 @@ def greet(name,msg="Hello"):
     print(f"{msg} {name}")
 
 def value(val):
+    
     lst.append(val)
     return lst
 
